@@ -10,6 +10,9 @@
 - Crawled_Data.csv: a sample of data scraped by running the crawl.ipynb
 - eda.ipynb: a notebook written to explore the dataset
 
+-- Technologies --
+- Python: selenium, beautifulsoup, pandas, seaborn
+- Statistic
 
 -- Author -- 
 Vi Pham
